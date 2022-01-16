@@ -86,7 +86,9 @@ Waiting...
 
 可喜可贺，今天能拉出一个圆了(*^_^*)
 
-![avatar](https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/a3602b64414ab33131ad721c504372d.jpg?raw=true)
+<div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/a3602b64414ab33131ad721c504372d.jpg?raw=true" width="350" height="350" ></div>
+
+
 
 
 
