@@ -86,4 +86,11 @@ Waiting...
 
 可喜可贺，今天能拉出一个圆了(*^_^*)
 
-![image-20220116162737950](C:\Users\10378\AppData\Roaming\Typora\typora-user-images\image-20220116162737950.png)
+![avatar](https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/a3602b64414ab33131ad721c504372d.jpg?raw=true)
+
+
+
+
+
+
+
