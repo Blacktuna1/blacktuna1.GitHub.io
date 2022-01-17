@@ -88,11 +88,13 @@ Waiting...
 
 <div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/a3602b64414ab33131ad721c504372d.jpg?raw=true" width="350" height="350" ></div>
 
+#### 22.1.17
 
+今天拉花成功了，看得出是个"♥”（确信）
 
+看了鱿鱼游戏，看得很爽，但是不喜欢这类作品
 
-
-
+<div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/%E6%8B%89%E8%8A%B11.jpg?raw=trueraw=true" width="350" height="350" ></div>
 
 
 
