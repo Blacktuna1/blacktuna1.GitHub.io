@@ -1,7 +1,8 @@
+### 欢迎
 
-## Welcome
+###### 这是一个个人网站
 
-###### 这是一个个人网站，我想在这写一写或者发一发自己的思考和成长过程
+我想在这写一写或者发一发自己的思考和成长过程
 
 ##  
 
@@ -96,7 +97,7 @@ Waiting...
 
 <div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/%E6%8B%89%E8%8A%B11.jpg?raw=trueraw=true" width="350" height="350" ></div>
 
-22.1.17（2
+#### 22.1.17（2
 
 明天下午依旧不出去
 
@@ -112,7 +113,7 @@ Waiting...
 
 
 
-22.1.17（3
+#### 22.1.17（3
 
 关于学习
 
@@ -121,4 +122,8 @@ java
 html
 
 后端和前端，两个一起学，html是为了我建网站的想法，java是为了支持我更好的学习前端知识
+
+最近学到的是markdown的使用方法和一个html的使用场景（在markdown中插入图片）
+
+
 
