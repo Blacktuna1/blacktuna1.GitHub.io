@@ -96,7 +96,19 @@ Waiting...
 
 <div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/%E6%8B%89%E8%8A%B11.jpg?raw=trueraw=true" width="350" height="350" ></div>
 
+22.1.17（2
 
+明天下午依旧不出去
+
+既然不想出去打工，那就让自己痛苦地学习一会儿
+
+这是昨天清理键盘时拍的，实际上只清理了一半，觉得这种重复看着很舒服，就拍了下来(●ˇ∀ˇ●)
+
+这两天似乎娱乐的气息很重
+
+但现在已经开始腻了，还是学习和娱乐交错让人幸福感狂飙
+
+<div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/%E6%B8%85%E7%90%86%E9%94%AE%E7%9B%98.jpg?raw=trueraw=trueraw=true" width="350" height="350" ></div>
 
 
 
