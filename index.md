@@ -1,10 +1,12 @@
+<img src="https://raw.githubusercontent.com/Blacktuna1/notepicture/main/07e142318700206b3956076787d3cd8.png" weight="10000" height="10">
+
 ### 欢迎
 
 ###### 这是一个个人网站
 
 我想在这写一写或者发一发自己的思考和成长过程
 
-##  
+---
 
 ### 每月输出文章部分
 
@@ -124,6 +126,10 @@ html
 后端和前端，两个一起学，html是为了我建网站的想法，java是为了支持我更好的学习前端知识
 
 最近学到的是markdown的使用方法和一个html的使用场景（在markdown中插入图片）
+
+#### 22.1.18 
+
+现在带上耳机听歌感觉还不错,心情好了一些
 
 
 
