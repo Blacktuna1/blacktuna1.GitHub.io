@@ -60,7 +60,7 @@ Waiting...
 
 #### 22.1.19
 
-<div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B5%AE%E4%B8%96%E7%BB%98-%E6%A8%B1%E8%8A%B1.jpg?raw=true"width="350" height="600" ></div>
+<div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B5%AE%E4%B8%96%E7%BB%98-%E6%A8%B1%E8%8A%B1.jpg?raw=true" width="350" height="600" ></div>
 
 
 今天还是睡到12点，下午打了一下午的游戏，晚上也打了一晚上。
