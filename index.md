@@ -60,13 +60,9 @@ Waiting...
 
 #### 22.1.19
 
-<<<<<<< HEAD
 <div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B5%AE%E4%B8%96%E7%BB%98-%E6%A8%B1%E8%8A%B1.jpg?raw=true"width="350" height="600" ></div>
-=======
-<div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B5%AE%E4%B8%96%E7%BB%98-%E6%A8%B1%E8%8A%B1.jpg?raw=true"width="350" height="600"></div>
->>>>>>> 257e4f9e4b292d7caf6e511e6c8f72b919f315a9
 
-！
+
 今天还是睡到12点，下午打了一下午的游戏，晚上也打了一晚上。
 
 突然想写日记也不知道有什么好写
