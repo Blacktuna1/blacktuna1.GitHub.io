@@ -1,7 +1,3 @@
-<html>
-
-<body style="background-color:pink">
-
 <img src="https://raw.githubusercontent.com/Blacktuna1/notepicture/main/07e142318700206b3956076787d3cd8.png" weight="10000" height="10">
 
 ### 欢迎
@@ -64,7 +60,7 @@ Waiting...
 
 #### 22.1.20
 
-<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%87%E8%B4%9D.jpg?raw=true"width="350"height="350"</div>
+<div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%87%E8%B4%9D.jpg?raw=true"width="350"height="350"></div>
 
 <p>好小的扇贝</p>
 
@@ -162,10 +158,6 @@ html
 - [ ] 平衡社交和学习
 - [ ] 想喝咖啡时泡杯咖啡
 - [ ] 不要陷入奶头乐，及时从奶头乐里出来。想好自己想看的东西，没有想看的东西那就睡觉。
-
-</body>
-
-</html>
 
 
 
