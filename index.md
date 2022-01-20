@@ -1,3 +1,7 @@
+<html>
+
+<body style="background-color:pink">
+
 <img src="https://raw.githubusercontent.com/Blacktuna1/notepicture/main/07e142318700206b3956076787d3cd8.png" weight="10000" height="10">
 
 ### 欢迎
@@ -158,6 +162,10 @@ html
 - [ ] 平衡社交和学习
 - [ ] 想喝咖啡时泡杯咖啡
 - [ ] 不要陷入奶头乐，及时从奶头乐里出来。想好自己想看的东西，没有想看的东西那就睡觉。
+
+</body>
+
+</html>
 
 
 
