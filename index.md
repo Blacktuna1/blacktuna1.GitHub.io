@@ -60,7 +60,7 @@ Waiting...
 
 #### 22.1.20
 
-<div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%87%E8%B4%9D.jpg?raw=true"width="350"height="350"></div>
+<div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%87%E8%B4%9D.jpg?raw=true" width="350" height="350" ></div>
 
 <p>好小的扇贝</p>
 
