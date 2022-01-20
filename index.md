@@ -58,6 +58,12 @@ Waiting...
 
 ### 日记
 
+#### 22.1.20
+
+<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%87%E8%B4%9D.jpg?raw=true"width="350"height="350"</div>
+
+<p>好小的扇贝</p>
+
 #### 22.1.19
 
 <div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B5%AE%E4%B8%96%E7%BB%98-%E6%A8%B1%E8%8A%B1.jpg?raw=true" width="350" height="600" ></div>
