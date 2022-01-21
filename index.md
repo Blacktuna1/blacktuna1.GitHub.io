@@ -58,6 +58,20 @@ Waiting...
 
 ### 日记
 
+#### 22.1.21
+
+今日计划
+
+- 下午（2-6）4h
+- [ ] 泡杯咖啡
+- [ ] 逛逛谷歌地球（1h
+- [ ] html五节（1h
+- [ ] 日语一课（1h
+- [ ] 力扣两道题
+- 晚上
+- [ ] 不出去
+- [ ] 看会儿书
+
 #### 22.1.20
 
 <div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%87%E8%B4%9D.jpg?raw=true" width="350" height="350" ></div>
