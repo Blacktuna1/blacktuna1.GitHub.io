@@ -58,19 +58,31 @@ Waiting...
 
 ### 日记
 
+#### 22.1.22
+
+<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%96%B0%E5%88%B0%E7%9A%84%E5%92%96%E5%95%A1%EF%BC%88%E5%AF%B9%E7%A7%B0%E7%89%88%20(2).jpg?raw=true" weight="350" height="350"></div>
+
+<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%93%E5%A5%B6%E6%B3%A1%EF%BC%88%E5%B1%85%E4%B8%AD%EF%BC%89.jpg?raw=true" weight="350" height="350"></div>
+
+<p>新的咖啡豆到了，终于不用喝星巴克了(●'◡'●)<br>做了一杯，结果咖啡太浓了，牛奶也太浓了<br>突然有鸭掌吃，是辣的，配咖啡是个错误的搭配，两个都挺重口味<br>结果就是对两个都腻了，最后咖啡加了点水，感觉还不赖</p>
+
 #### 22.1.21
 
-今日计划
+<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B0%B4%E6%9E%9C%E6%8D%9E.jpg?raw=true" weight="350" height="350"></div>
+
+<p>昨天还是出去了🤣😅<br>但是吃到了好吃而且好久没吃的水果捞😁😁</p>
+
+**今日计划**
 
 - 下午（2-6）4h
 - [x] 泡杯咖啡
-- [ ] 逛逛谷歌地球（1h
+- [x] 逛逛谷歌地球（1h
 - [x] html五节（1h
 - [ ] 日语一课（1h
 - [ ] 力扣两道题
 - 晚上
 - [ ] 不出去
-- [ ] 看会儿书
+- [x] 看会儿书
 
 #### 22.1.20
 
@@ -82,16 +94,7 @@ Waiting...
 
 <div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B5%AE%E4%B8%96%E7%BB%98-%E6%A8%B1%E8%8A%B1.jpg?raw=true" width="350" height="600" ></div>
 
-
-今天还是睡到12点，下午打了一下午的游戏，晚上也打了一晚上。
-
-突然想写日记也不知道有什么好写
-
-拉花也失败了
-
-倒是又燃起了一点阅读的小火苗
-
-想读《十三夜》(●'◡'●)
+<p>今天还是睡到12点，下午打了一下午的游戏，晚上也打了一晚上。<br>突然想写日记也不知道有什么好写<br>拉花也失败了<br>倒是又燃起了一点阅读的小火苗想读《十三夜》(●'◡'●)
 
 #### 22.1.18 
 
@@ -99,29 +102,19 @@ Waiting...
 
 #### 22.1.17
 
-今天拉花成功了，看得出是个"♥”（确信）
-
-看了鱿鱼游戏，看得很爽，但是不喜欢这类作品
-
 <div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/%E6%8B%89%E8%8A%B11.jpg?raw=trueraw=true" width="350" height="350" ></div>
+
+<p>今天拉花成功了，看得出是个"♥”（确信）<br>看了鱿鱼游戏，看得很爽，但是不喜欢这类作品</p>
 
 #### 22.1.17（2
 
-明天下午依旧不出去
-
-既然不想出去打工，那就让自己痛苦地学习一会儿
-
-这是昨天清理键盘时拍的，实际上只清理了一半，觉得这种重复看着很舒服，就拍了下来(●ˇ∀ˇ●)
-
-这两天娱乐的气息很重
-
-但现在已经开始腻了，还是学习和娱乐交错让人幸福感狂飙
-
 <div align=left><img src="https://github.com/Blacktuna1/blacktuna1.GitHub.io/blob/main/%E6%B8%85%E7%90%86%E9%94%AE%E7%9B%98.jpg?raw=trueraw=trueraw=true" width="350" height="350" ></div>
+
+<p>明天下午依旧不出去<br>既然不想出去打工，那就让自己痛苦地学习一会儿<br>这是昨天清理键盘时拍的，实际上只清理了一半，觉得这种重复看着很舒服，就拍了下来(●ˇ∀ˇ●)<br>这两天娱乐的气息很重<br>但现在已经开始腻了，还是学习和娱乐交错让人幸福感狂飙
 
 #### 22.1.17（3
 
-关于学习
+<p>关于学习
 
 java
 
