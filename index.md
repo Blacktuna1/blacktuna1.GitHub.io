@@ -58,17 +58,23 @@ Waiting...
 
 ### 日记
 
+#### 22.1.27
+
+<div align=left><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E8%8A%92%E6%9E%9C%E7%8F%AD%E6%88%9F.jpg?raw=true" wedth="350" height="350"></div>
+
+<p>偶尔吃点甜食感觉还不错😋😋<br>最近的时间几乎没有用来学习😫😪<br>感慨有固定的时间学习是个幸福的事情😥😥<br>好久没有编程了<br>上一次更新居然是22号了😲😲</p>
+
 #### 22.1.22
 
-<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%96%B0%E5%88%B0%E7%9A%84%E5%92%96%E5%95%A1%EF%BC%88%E5%AF%B9%E7%A7%B0%E7%89%88%20(2).jpg?raw=true" weight="350" height="350"></div>
+<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%96%B0%E5%88%B0%E7%9A%84%E5%92%96%E5%95%A1%EF%BC%88%E5%AF%B9%E7%A7%B0%E7%89%88%20(2).jpg?raw=true" width="350" height="350"></div>
 
-<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%93%E5%A5%B6%E6%B3%A1%EF%BC%88%E5%B1%85%E4%B8%AD%EF%BC%89.jpg?raw=true" weight="350" height="350"></div>
+<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%89%93%E5%A5%B6%E6%B3%A1%EF%BC%88%E5%B1%85%E4%B8%AD%EF%BC%89.jpg?raw=true" width="350" height="350"></div>
 
 <p>新的咖啡豆到了，终于不用喝星巴克了(●'◡'●)<br>做了一杯，结果咖啡太浓了，牛奶也太浓了<br>突然有鸭掌吃，是辣的，配咖啡是个错误的搭配，两个都挺重口味<br>结果就是对两个都腻了，最后咖啡加了点水，感觉还不赖</p>
 
 #### 22.1.21
 
-<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B0%B4%E6%9E%9C%E6%8D%9E.jpg?raw=true" weight="350" height="350"></div>
+<div align="left"><img src="https://github.com/Blacktuna1/notepicture/blob/main/%E6%B0%B4%E6%9E%9C%E6%8D%9E.jpg?raw=true" width="350" height="350"></div>
 
 <p>昨天还是出去了🤣😅<br>但是吃到了好吃而且好久没吃的水果捞😁😁</p>
 
